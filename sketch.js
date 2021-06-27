@@ -17,9 +17,9 @@ function preload(){
 
   bulletImg = loadImage('Images/bullet.png')
 
-  restartImg = loadImage('images/restart.png');
-  gameOverImg = loadImage("images/GameOver.png");
-  playImg = loadImage("images/play.png");
+  restartImg = loadImage('Images/restart.png');
+  gameOverImg = loadImage("Images/GameOver.png");
+  playImg = loadImage("Images/play.png");
 }
 
 
